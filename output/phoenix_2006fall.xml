@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The Phoenix </title>
+   </titleInfo>
+   <name>
+      <namePart>University of Tennessee (Knoxville campus)</namePart>
+      <role>
+         <roleTerm type="text">creator</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="dct">text</genre>
+   <subject>
+      <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals.</topic>
+   </subject>
+   <subject>
+      <topic>Imprints, Tennessee -- Knoxville -- 1959.</topic>
+   </subject>
+   <note>Publications by students</note>
+   <originInfo>
+      <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+   </originInfo>
+   <originInfo>
+      <dateOther>2006 Fall</dateOther>
+   </originInfo>
+   <identifier type="local">phoenix_2006fall</identifier>
+   <location>
+      <url>http://digital.lib.utk.edu/mpds/?ckey=phoenix&amp;iid=1147</url>
+   </location>
+   <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=phoenix&amp;iid=1147</identifier>
+   <relatedItem type="original">
+      <titleInfo>
+         <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+      </titleInfo>
+   </relatedItem>
+   <language>
+      <languageTerm type="text">Eng</languageTerm>
+   </language>
+   <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of "Fair Use." For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
