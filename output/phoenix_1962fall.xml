@@ -29,10 +29,6 @@
       <dateOther>1962 Fall</dateOther>
    </originInfo>
    <identifier type="local">phoenix_1962fall</identifier>
-   <location>
-      <url>http://digital.lib.utk.edu/mpds/?ckey=phoenix&amp;iid=1042</url>
-   </location>
-   <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=phoenix&amp;iid=1042</identifier>
    <relatedItem type="original">
       <titleInfo>
          <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
@@ -41,10 +37,13 @@
    <language>
       <languageTerm type="text">Eng</languageTerm>
    </language>
-   <accessCondition>This compilation is copyrighted by the University of
-Tennessee. Images, text, or other content downloaded from the
-collection may be freely used for non-profit educational
-and research purposes, or any other use falling
-within the purview of "Fair Use." For any other use,
-contact the University of Tennessee Libraries. </accessCondition>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
 </mods>
